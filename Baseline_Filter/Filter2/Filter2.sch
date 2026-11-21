@@ -1,6 +1,6 @@
 <Qucs Schematic 26.1.1>
 <Properties>
-  <View=-204,-142,1952,1233,0.432746,0,0>
+  <View=-204,-49,2046,1027,0.633583,0,87>
   <Grid=10,10,1>
   <DataSet=Filter2.dat>
   <DataDisplay=Filter2.dpl>
@@ -108,7 +108,7 @@
   <Tab 1583 337 328 233 3 #c0c0c0 1 00 1 1698 1 1 1 0 1 1 1 0 1 2500 315 0 225 1 0 0 "" "" "">
 	<"dBS21" #0000ff 0 6 1 0 0>
   </Tab>
-  <Tab 1220 992 316 621 3 #c0c0c0 1 00 1 611 1 1 1 0 1 1 1 0 1 2500 315 0 225 1 0 0 "" "" "">
+  <Tab 1220 992 316 621 3 #c0c0c0 1 00 1 599 1 1 1 0 1 1 1 0 1 2500 315 0 225 1 0 0 "" "" "">
 	<"dBS21" #0000ff 0 5 1 0 0>
   </Tab>
   <Tab 1590 992 316 621 3 #c0c0c0 1 00 1 1786 1 1 1 0 1 1 1 0 1 2500 315 0 225 1 0 0 "" "" "">
@@ -117,4 +117,10 @@
 </Diagrams>
 <Paintings>
   <Text 230 320 12 #000000 0 "Chebyshev band-pass filter \n 27MHz...37MHz, pi-type, \n impedance matching 50 Ohm">
+  <Text -140 510 12 #ff0000 0 "Fig 4.4: Filter B schematic (15-resonator Chebyshev bandpass, 27-37 MHz, pi type)">
+  <Text 770 480 12 #ff0000 0 "Fig 4.5: Filter B S21 in dB, 20-45 MHz\n">
+  <Text 1200 10 12 #ff0000 0 "Table 4.7: Filter B S21 around 26.9-27.0 MHz (lower -1 dB and -3 dB edges)">
+  <Text 1530 70 12 #ff0000 0 "Table 4.8: Filter B S21 around 37.0 MHz (upper -1 dB and -3 dB edges)">
+  <Text 1190 1010 12 #ff0000 0 "Table 4.9: Filter B S21 around 26MHz (lower 55 dB point, 26 MHz value)">
+  <Text 1420 1060 12 #ff0000 0 "Table 4.10: Filter B S21 around 38 MHz (upper 55 dB point, 38 MHz value)">
 </Paintings>
