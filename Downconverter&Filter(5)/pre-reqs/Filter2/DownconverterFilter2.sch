@@ -1,6 +1,6 @@
 <Qucs Schematic 26.1.1>
 <Properties>
-  <View=-1145,26,1776,1408,0.43063,0,0>
+  <View=-906,-479,2044,1798,0.560382,395,681>
   <Grid=10,10,1>
   <DataSet=DownconverterFilter2.dat>
   <DataDisplay=DownconverterFilter2.dpl>
@@ -131,8 +131,9 @@
 </Diagrams>
 <Paintings>
   <Text 420 330 12 #000000 0 "Chebyshev band-pass filter \n 27MHz...37MHz, pi-type, \n impedance matching 50 Ohm">
-  <Text 430 880 12 #ff0000 0 "Fig 4.9: spectrum before Filter A , 0-2 GHz">
-  <Text 980 880 12 #ff0000 0 "Fig 4.10: spectrum before Filter A, 0-100 MHz">
-  <Text 420 1340 12 #ff0000 0 "Fig 4.11: spectrum after Filter A, 0-2 GHz">
-  <Text 980 1340 12 #ff0000 0 "Fig 4.12: spectrum after Filter A, 0-100 MHz\n">
+  <Text 430 880 12 #ff0000 0 "Fig 4.14: spectrum before Filter B , 0-2 GHz">
+  <Text 980 880 12 #ff0000 0 "Fig 4.15: spectrum before Filter B, 0-100 MHz">
+  <Text 420 1340 12 #ff0000 0 "Fig 4.16: spectrum after Filter B, 0-2 GHz">
+  <Text 980 1340 12 #ff0000 0 "Fig 4.17: spectrum after Filter B, 0-100 MHz\n">
+  <Text 310 60 12 #ff0000 0 "Fig 4.13: Diode mixer followed by Filter B">
 </Paintings>
