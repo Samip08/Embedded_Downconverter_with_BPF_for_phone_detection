@@ -1,6 +1,6 @@
 <Qucs Schematic 26.1.1>
 <Properties>
-  <View=-849,-574,1887,969,1.21,1816,1099>
+  <View=-732,-291,2119,944,0.826446,1139,426>
   <Grid=10,10,1>
   <DataSet=full_circuit.dat>
   <DataDisplay=full_circuit.dpl>
