@@ -1,0 +1,87 @@
+$begin 'InterrogationCache'
+	Version=1
+	$begin 'ValidationStatus'
+		$begin 'Options'
+			EntityCheckLevel='Strict'
+			IgnoreUnclassifiedObjects=false
+			SkipIntersectionChecks=false
+		$end 'Options'
+		Status=true
+	$end 'ValidationStatus'
+	$begin 'BodyCaches'
+		$begin '6'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
+			$begin 'BoundingBox'
+				Low[3: -8.0000000000000071, -29.034500000000001, 0]
+				High[3: 305.63999999999999, 5.8294999999999941, 0.81299999999999994]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '6'
+		$begin '34'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
+			$begin 'BoundingBox'
+				Low[3: -8.0000000000000071, -24.034500000000001, 0.81299999999999994]
+				High[3: 305.63999999999999, 0.82949999999999968, 0.81299999999999994]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '34'
+		$begin '211'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
+			$begin 'BoundingBox'
+				Low[3: -8.0000000000000071, -35.034500000000001, 0]
+				High[3: 305.63999999999999, 11.829499999999998, 0]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '211'
+		$begin '223'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
+			$begin 'BoundingBox'
+				Low[3: -8.0000000000000071, -35.034500000000001, 0]
+				High[3: 305.63999999999999, 11.829499999999994, 12.813000000000002]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '223'
+		$begin '308'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
+			$begin 'BoundingBox'
+				Low[3: -7.9999999999999982, -4.5000000000000009, 1.3877787807814457e-15]
+				High[3: -7.9999999999999982, 4.4999999999999982, 7.0000000000000018]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '308'
+		$begin '320'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
+			$begin 'BoundingBox'
+				Low[3: 305.63999999999999, -27.704999999999995, 1.3877787807814457e-15]
+				High[3: 305.63999999999999, -18.704999999999998, 7.0000000000000018]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '320'
+	$end 'BodyCaches'
+	$begin 'IntersectionCaches'
+	$end 'IntersectionCaches'
+$end 'InterrogationCache'
