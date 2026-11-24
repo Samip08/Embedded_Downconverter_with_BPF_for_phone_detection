@@ -1,6 +1,6 @@
 <Qucs Schematic 26.1.1>
 <Properties>
-  <View=-80,-20,1857,1011,1,80,20>
+  <View=-636,55,1553,1412,0.913636,473,253>
   <Grid=10,10,1>
   <DataSet=Task_eight_schematic.dat>
   <DataDisplay=Task_eight_schematic.dpl>
@@ -33,8 +33,8 @@
   <Pac P2 1 890 510 18 -26 0 1 "2" 1 "50 Ohm" 1 "0 dBm" 0 "1 GHz" 0 "26.85" 0 "true" 0 "false" 0>
   <GND * 1 890 540 0 0 0 0>
   <Eqn Eqn1 1 690 590 -28 15 0 0 "S21_dB=dB(S[2,1])" 1 "S11_dB=dB(S[1,1])" 1 "yes" 0>
-  <SUBST Sub1 1 550 530 -30 24 0 0 "3.66" 1 "762um" 1 "35um" 1 "0.0031" 1 "1e-10" 1 "0" 1>
   <.SP SP1 1 310 490 0 56 0 0 "lin" 1 "500MHz" 1 "2000MHz" 1 "301" 1 "no" 0 "1" 0 "2" 0 "no" 0 "no" 0>
+  <SUBST Sub1 1 550 530 -30 24 0 0 "3.66" 1 "762um" 1 "35um" 1 "0.0031" 1 "1.72e-8" 1 "0" 1>
 </Components>
 <Wires>
   <300 210 300 380 "" 0 0 0 "">
