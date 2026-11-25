@@ -2,3 +2,11 @@ Downconverter&Filter(5)/pre-reqs/Filter2/DownconverterFilter2.dat
 Downconverter&Filter(5)/run_700MHz/DownconverterFilter_700.dat
 Downconverter&Filter(5)/run_900MHz/DownconverterFilter_900.dat
 Baseline_Detector(6)/Full_circuit/full_circuit.dat
+
+# Ansys HFSS lock and solver cache
+Microstrip(8)/hfss/Project1.aedt.lock
+Microstrip(8)/hfss/Project1.aedtresults/
+*.semaphore
+*.asol_priv
+
+
